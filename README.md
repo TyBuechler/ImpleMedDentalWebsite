@@ -1,6 +1,6 @@
 # ImpleMed Dental Website Project
 
-Welcome to the ImpleMed Dental website project! This project aims to create a website for ImpleMed Dental, a business owned by [Your Mom's Name], to help promote her dental services and provide information to potential clients.
+Welcome to the ImpleMed Dental website project! This project aims to create a website for ImpleMed Dental, a business owned by Sandy Buechler, to help promote her dental services and provide information to potential clients.
 
 ## Project Overview
 
